@@ -4,3 +4,20 @@ __pycache__/
 *.swp
 .vscode/
 .idea/
+
+# KiCad backup and autosave files
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
+_autosave-*
+fp-info-cache
+*.lck
+
+# Build outputs (regenerate from source)
+*.dsn
+*.ses
+
+# OS files
+*.DS_Store*
+Thumbs.db

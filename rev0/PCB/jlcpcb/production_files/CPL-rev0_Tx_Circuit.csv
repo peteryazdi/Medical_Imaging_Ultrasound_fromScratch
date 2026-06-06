@@ -1,0 +1,85 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF/200V,CP_Radial_D10.0mm_P5.00mm,133.132323,-64.5,0.0,top
+C10,0.47uF/50V,C_0805_2012Metric,162.5,-77.975,90.0,top
+C11,1uF/250V,C_1210_3225Metric,170.025,-80.0,0.0,top
+C12,10nF/200V,C_0805_2012Metric,168.025,-71.6,-90.0,top
+C13,0.47uF/50V,C_0805_2012Metric,162.475,-106.475,90.0,top
+C14,1uF/250V,C_1210_3225Metric,170.025,-67.0,180.0,top
+C15,10nF/200V,C_0805_2012Metric,167.95,-113.31,-90.0,top
+C16,0.47uF/50V,C_0805_2012Metric,162.475,-116.475,90.0,top
+C17,1uF/250V,C_1210_3225Metric,169.95,-118.31,0.0,top
+C18,10nF/200V,C_0805_2012Metric,167.95,-109.31,-90.0,top
+C19,10uF/16V,CP_Radial_D5.0mm_P2.50mm,111.0825,-93.5,180.0,top
+C2,10uF/200V,CP_Radial_D10.0mm_P5.00mm,134.0,-119.5,180.0,top
+C20,1uF / 16V,C_Disc_D5.0mm_W2.5mm_P2.50mm,154.62,-86.49,-90.0,top
+C21,1uF/250V,C_1210_3225Metric,169.95,-105.31,180.0,top
+C4,1uF / 200V,C_1210_3225Metric,134.475,-110.5,180.0,top
+C5,1uF / 200V,C_1210_3225Metric,133.0,-73.5,180.0,top
+C7,0.47uF/50V,C_0805_2012Metric,162.5,-67.975,90.0,top
+C8,1ufF / 16V,C_Disc_D5.0mm_W2.5mm_P2.50mm,154.62,-97.74,-90.0,top
+C9,10nF/200V,C_0805_2012Metric,168.025,-75.6,-90.0,top
+D1,LED_GREEN,LED_D3.0mm,118.77,-136.34,180.0,top
+D10,MURS160,D_SMA,179.525,-69.0,-90.0,top
+D11,MURS160,D_SMA,179.45,-107.31,-90.0,top
+D2,LED_RED,LED_D3.0mm,129.73,-136.34,180.0,top
+D3,1N4007,D_DO-41_SOD81_P10.16mm_Horizontal,121.08,-115.0,0.0,top
+D4,LED_GREEN,LED_D3.0mm,142.0,-136.34,180.0,top
+D5,MURS160,D_SMA,179.525,-77.0,-90.0,top
+D6,LED_GREEN,LED_D3.0mm,155.0,-136.34,180.0,top
+D7,1N5819,D_DO-41_SOD81_P10.16mm_Horizontal,115.0,-84.965,90.0,top
+D8,1N4007,D_DO-41_SOD81_P10.16mm_Horizontal,120.58,-66.5,180.0,top
+D9,MURS160,D_SMA,179.45,-115.31,-90.0,top
+HV_N_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,123.0,-125.5,90.0,top
+HV_N_TP1,HV_N,TestPoint_THTPad_D1.5mm_Drill0.7mm,118.0,-125.5,90.0,top
+HV_P_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,117.975,-62.0,90.0,top
+HV_P_TP1,HV_P,TestPoint_THTPad_D1.5mm_Drill0.7mm,122.975,-62.0,90.0,top
+INA_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,147.5,-70.475,0.0,top
+INA_GND_TP2,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,147.475,-108.975,0.0,top
+INA_TP1,INA,TestPoint_THTPad_D1.5mm_Drill0.7mm,152.5,-70.475,0.0,top
+INA_TP2,INA,TestPoint_THTPad_D1.5mm_Drill0.7mm,152.475,-108.975,0.0,top
+INB_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,147.5,-75.475,0.0,top
+INB_GND_TP2,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,147.475,-113.975,0.0,top
+INB_TP1,INB,TestPoint_THTPad_D1.5mm_Drill0.7mm,152.5,-75.475,0.0,top
+INB_TP2,INB,TestPoint_THTPad_D1.5mm_Drill0.7mm,152.475,-113.975,0.0,top
+J1,Screw_Terminal_01x02,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,106.5,-71.04,-90.0,top
+J2,Screw_Terminal_01x02,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,106.5,-118.672323,-90.0,top
+J3,Screw_Terminal_01x02,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,106.3325,-84.54,-90.0,top
+J4,Screw_Terminal_01x02,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,106.0,-102.96,-90.0,top
+J5,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Vertical,175.92,-95.23,90.0,top
+J8,SMA Vertical,SMA_Amphenol_132134-10_Vertical,186.025,-73.0,0.0,top
+J9,SMA Vertical,SMA_Amphenol_132134-10_Vertical,186.0,-111.5,0.0,top
+JP1,Jumper_2pin,PinHeader_1x02_P2.54mm_Vertical,116.0,-99.65,0.0,top
+JP2,Jumper_2pin,PinHeader_1x02_P2.54mm_Vertical,116.0,-107.65,0.0,top
+LV_N_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,160.12,-99.49,90.0,top
+LV_N_TP1,DRV_N5V,TestPoint_THTPad_D1.5mm_Drill0.7mm,160.12,-94.49,90.0,top
+LV_P_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,159.62,-84.24,-90.0,top
+LV_P_TP1,DRV_P5V,TestPoint_THTPad_D1.5mm_Drill0.7mm,159.62,-89.24,-90.0,top
+Q1,TC6320,SOIC-8_3.9x4.9mm_P1.27mm,173.025,-73.0,270.0,top
+Q2,TC6320,SOIC-8_3.9x4.9mm_P1.27mm,173.0,-111.5,270.0,top
+R1,1M / 0.25W,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,120.58,-72.0,180.0,bottom
+R11,"470 ohm, 0.25W",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,148.27,-133.42,-90.0,top
+R12,10K,R_0805_2012Metric,156.92125,-72.975,180.0,top
+R13,10K,R_0805_2012Metric,156.92125,-75.475,0.0,top
+R14,1M / 0.25W,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,176.42,-63.18,0.0,bottom
+R15,10K,R_0805_2012Metric,157.475,-111.905,180.0,top
+R16,10K,R_0805_2012Metric,157.475,-113.975,0.0,top
+R17,1M / 0.25W,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,176.475,-101.405,0.0,bottom
+R2,1M / 0.25W,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,120.58,-121.0,180.0,bottom
+R27,"470 ohm, 0.25W",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,113.0,-133.42,-90.0,top
+R28,"100K, 0.25W",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,124.54,-133.42,-90.0,top
+R30,"470 ohm, 0.25W",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,136.04,-133.42,-90.0,top
+R31,10K,R_0805_2012Metric,156.92125,-70.475,180.0,top
+R32,1M / 0.25W,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,176.42,-82.905,180.0,bottom
+R36,10K,R_0805_2012Metric,157.475,-108.975,180.0,top
+R37,1M / 0.25W,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,176.555,-121.405,180.0,bottom
+R4,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,182.92,-88.5,0.0,top
+R9,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,170.08,-88.5,0.0,top
+TRIG_OUT_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,186.5,-98.5,0.0,top
+TRIG_OUT_TP1,TRIG_OUT,TestPoint_THTPad_D1.5mm_Drill0.7mm,186.5,-93.5,0.0,top
+TX_1_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,188.0,-67.405,0.0,top
+TX_1_TP1,TX_Node_1,TestPoint_THTPad_D1.5mm_Drill0.7mm,183.0,-67.405,0.0,top
+TX_2_GND_TP1,GND,TestPoint_THTPad_D1.5mm_Drill0.7mm,187.975,-105.905,0.0,top
+TX_2_TP1,TX_Node_2,TestPoint_THTPad_D1.5mm_Drill0.7mm,182.975,-105.905,0.0,top
+U1,MD1213,MD1213_VQFN12_4x4_P0.8_EP1.7x1.7,162.5,-72.975,0.0,top
+U2,MD1213,MD1213_VQFN12_4x4_P0.8_EP1.7x1.7,162.475,-111.475,0.0,top
+U3,DCWN03_05,DCWN03_DIP24_8PIN,136.15,-92.62,90.0,top

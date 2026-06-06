@@ -1,0 +1,445 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "50fb708d-2adf-435b-bbfa-ebc61b881914")
+	(paper "A4")
+	(title_block
+		(title "Rev 0 Ultrasound 2-Channel TX Test Board ")
+		(date "2026-04-10")
+		(rev "0.1")
+		(company "Peter Yazdi")
+		(comment 1 "Top-level system schematic")
+		(comment 2 "2 Tx circuits ")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 50.8 44.45) (xy 69.85 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30db260e-d5b1-490f-87f8-ae6fce813551")
+	)
+	(wire
+		(pts
+			(xy 50.8 69.85) (xy 69.85 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "358f6a5b-0576-4d22-ba39-7af03343092c")
+	)
+	(wire
+		(pts
+			(xy 50.8 46.99) (xy 69.85 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e4772cb-a38b-476c-92a7-409696c72035")
+	)
+	(wire
+		(pts
+			(xy 50.8 72.39) (xy 69.85 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98d1df64-5133-4eec-aa40-85d522631b48")
+	)
+	(wire
+		(pts
+			(xy 50.8 67.31) (xy 69.85 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a877b4d3-83b4-4197-a42c-8a72d0685e89")
+	)
+	(wire
+		(pts
+			(xy 50.8 64.77) (xy 69.85 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0816941-b0b1-48a1-911c-fd72b50619c1")
+	)
+	(wire
+		(pts
+			(xy 50.8 49.53) (xy 69.85 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbf1c25a-245f-4f09-ba45-ed9dd5bbf97f")
+	)
+	(wire
+		(pts
+			(xy 50.8 52.07) (xy 69.85 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea29c809-181b-4ca0-bf08-980baf01dc6d")
+	)
+	(sheet
+		(at 25.4 63.5)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "01de8b43-061c-4044-8a00-10fbdb2b3b69")
+		(property "Sheetname" "TX_2"
+			(at 25.4 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "channel_cell.kicad_sch"
+			(at 25.4 74.2446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "INA" input
+			(at 50.8 67.31 0)
+			(uuid "f1ac322b-5830-4c89-b1d4-e02ba662c860")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INB" input
+			(at 50.8 69.85 0)
+			(uuid "273cbc30-82a3-4cf7-8d6a-404638b24111")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OE" input
+			(at 50.8 72.39 0)
+			(uuid "21fd8920-eb87-486f-bc47-dafb98cec77c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX_NODE" output
+			(at 50.8 64.77 0)
+			(uuid "ce64f590-4fa3-40f3-aad5-7866bb000305")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "rev0_Tx_Circuit"
+				(path "/50fb708d-2adf-435b-bbfa-ebc61b881914"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 41.91)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "62f441c6-6f3f-45f5-bd08-4c60fffeb5ec")
+		(property "Sheetname" "CONTROL_IO"
+			(at 71.374 41.148 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "control_io.kicad_sch"
+			(at 70.104 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CH1_INA" output
+			(at 69.85 46.99 180)
+			(uuid "a42609cd-3f6c-46c1-9114-b89b8417c405")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CH1_INB" output
+			(at 69.85 49.53 180)
+			(uuid "e6a6c782-5151-40c6-9b4b-63c51a36778d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CH1_OE" output
+			(at 69.85 52.07 180)
+			(uuid "b0cb0273-fac4-4695-88b7-f858b3248c16")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CH2_INA" output
+			(at 69.85 67.31 180)
+			(uuid "47e1263a-fbf1-4871-94aa-0095c3bc62d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CH2_INB" output
+			(at 69.85 69.85 180)
+			(uuid "91646b11-68f9-4c35-920d-c2f646c92ce4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CH2_OE" output
+			(at 69.85 72.39 180)
+			(uuid "99bb8f73-3b43-47c6-a6ae-0e6ef3cbd515")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_Node_1" input
+			(at 69.85 44.45 180)
+			(uuid "f4cfcb45-48e8-458a-b427-4e7e9b47c5d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_Node_2" input
+			(at 69.85 64.77 180)
+			(uuid "d2864873-7331-4946-a41b-2d611ab5a5ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "rev0_Tx_Circuit"
+				(path "/50fb708d-2adf-435b-bbfa-ebc61b881914"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 43.18)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "676e16d2-eaa5-4320-a663-dac2f56a3fd6")
+		(property "Sheetname" "TX_1"
+			(at 25.4 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "channel_cell.kicad_sch"
+			(at 25.4 53.9246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "INA" input
+			(at 50.8 46.99 0)
+			(uuid "86809499-405d-43f9-ab5b-09219c19882b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INB" input
+			(at 50.8 49.53 0)
+			(uuid "3d49508f-28a0-4f6c-9604-d998e269bebe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OE" input
+			(at 50.8 52.07 0)
+			(uuid "ffa2347f-54be-4b20-a9ac-5b42eedf7d27")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX_NODE" output
+			(at 50.8 44.45 0)
+			(uuid "04ee0bec-afae-4d89-90c5-0cfb4b38a645")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "rev0_Tx_Circuit"
+				(path "/50fb708d-2adf-435b-bbfa-ebc61b881914"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.035 86.995)
+		(size 67.31 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f9df31f8-9305-4c2b-bbf4-468bfb60bb74")
+		(property "Sheetname" "POWER_SUPPLIES"
+			(at 26.035 86.2834 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hv_power.kicad_sch"
+			(at 26.035 115.5196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rev0_Tx_Circuit"
+				(path "/50fb708d-2adf-435b-bbfa-ebc61b881914"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

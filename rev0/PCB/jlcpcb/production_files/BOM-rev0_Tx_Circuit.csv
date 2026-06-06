@@ -1,0 +1,85 @@
+Comment,Designator,Footprint,LCSC,Quantity
+LED_GREEN,D4,LED_D3.0mm,,1
+SMA Vertical,J8,SMA_Amphenol_132134-10_Vertical,,1
+"470 ohm, 0.25W",R11,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+GND,INB_GND_TP2,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+TX_Node_1,TX_1_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+TC6320,Q2,SOIC-8_3.9x4.9mm_P1.27mm,,1
+GND,TRIG_OUT_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+LED_GREEN,D1,LED_D3.0mm,,1
+LED_GREEN,D6,LED_D3.0mm,,1
+HV_N,HV_N_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+1N5819,D7,D_DO-41_SOD81_P10.16mm_Horizontal,,1
+1uF / 200V,C4,C_1210_3225Metric,,1
+"470 ohm, 0.25W",R27,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+Jumper_2pin,JP2,PinHeader_1x02_P2.54mm_Vertical,,1
+"100K, 0.25W",R28,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+HV_P,HV_P_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+INB,INB_TP2,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+1uF/250V,C11,C_1210_3225Metric,,1
+DRV_P5V,LV_P_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+TC6320,Q1,SOIC-8_3.9x4.9mm_P1.27mm,,1
+10K,R16,R_0805_2012Metric,,1
+10K,R9,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+10K,R36,R_0805_2012Metric,,1
+GND,INA_GND_TP2,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+MURS160,D5,D_SMA,,1
+Screw_Terminal_01x02,J3,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,,1
+Screw_Terminal_01x02,J1,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,,1
+1uF/250V,C14,C_1210_3225Metric,,1
+Jumper_2pin,JP1,PinHeader_1x02_P2.54mm_Vertical,,1
+10uF/16V,C19,CP_Radial_D5.0mm_P2.50mm,,1
+1uF/250V,C17,C_1210_3225Metric,,1
+10nF/200V,C15,C_0805_2012Metric,,1
+10K,R13,R_0805_2012Metric,,1
+MURS160,D10,D_SMA,,1
+Conn_02x05_Odd_Even,J5,PinHeader_2x05_P2.54mm_Vertical,,1
+10nF/200V,C9,C_0805_2012Metric,,1
+TX_Node_2,TX_2_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+10nF/200V,C12,C_0805_2012Metric,,1
+10K,R12,R_0805_2012Metric,,1
+DCWN03_05,U3,DCWN03_DIP24_8PIN,,1
+10uF/200V,C1,CP_Radial_D10.0mm_P5.00mm,,1
+DRV_N5V,LV_N_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+10uF/200V,C2,CP_Radial_D10.0mm_P5.00mm,,1
+SMA Vertical,J9,SMA_Amphenol_132134-10_Vertical,,1
+TRIG_OUT,TRIG_OUT_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+INB,INB_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+INA,INA_TP2,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+GND,INB_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+MD1213,U1,MD1213_VQFN12_4x4_P0.8_EP1.7x1.7,,1
+0.47uF/50V,C16,C_0805_2012Metric,,1
+1uF/250V,C21,C_1210_3225Metric,,1
+GND,INA_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+10nF/200V,C18,C_0805_2012Metric,,1
+GND,TX_2_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+MD1213,U2,MD1213_VQFN12_4x4_P0.8_EP1.7x1.7,,1
+1N4007,D8,D_DO-41_SOD81_P10.16mm_Horizontal,,1
+10K,R4,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+GND,LV_N_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+GND,HV_P_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+0.47uF/50V,C7,C_0805_2012Metric,,1
+INA,INA_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+10K,R31,R_0805_2012Metric,,1
+Screw_Terminal_01x02,J4,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,,1
+MURS160,D9,D_SMA,,1
+1N4007,D3,D_DO-41_SOD81_P10.16mm_Horizontal,,1
+0.47uF/50V,C10,C_0805_2012Metric,,1
+GND,TX_1_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+LED_RED,D2,LED_D3.0mm,,1
+"470 ohm, 0.25W",R30,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+1ufF / 16V,C8,C_Disc_D5.0mm_W2.5mm_P2.50mm,,1
+Screw_Terminal_01x02,J2,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,,1
+0.47uF/50V,C13,C_0805_2012Metric,,1
+1uF / 200V,C5,C_1210_3225Metric,,1
+GND,HV_N_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+MURS160,D11,D_SMA,,1
+1uF / 16V,C20,C_Disc_D5.0mm_W2.5mm_P2.50mm,,1
+10K,R15,R_0805_2012Metric,,1
+GND,LV_P_GND_TP1,TestPoint_THTPad_D1.5mm_Drill0.7mm,,1
+1M / 0.25W,R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+1M / 0.25W,R14,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+1M / 0.25W,R32,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+1M / 0.25W,R17,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+1M / 0.25W,R37,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+1M / 0.25W,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
